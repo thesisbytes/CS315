@@ -17,7 +17,7 @@ For this lab your are going to build and simulate some simple circuits.
 1. The LED will turn red when the input is high (1) and black when in the input is low (0). 
 1. Here is a screen shot of the circuit you need to build and simulate. Note that you need to add labels to the inputs (A and B):
 
-![lab05-part1]({{ img_base }}/lab05-part1.png)
+![lab05-part1]({{ img_base }}/lab05-part1GG.png)
 
 ## Part 2: Max2
 Consider the C code fragment below:

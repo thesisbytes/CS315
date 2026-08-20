@@ -2,13 +2,13 @@
 layout: default
 ---
 
-{% assign img_base = site.url | append: site.baseurl | append: "/assets/img/project06" %}
+{% assign img_base = site.url | append: site.baseurl | append: "/assets/img/project06GG" %}
 
 The project spec for project06 provides high-level requirements. This guide, along with lecture material, will drill down into the details. Using all of this information, you will implement and simulate a single-cycle RISC-V processor in Digital
 
 ## Major Components
 
-![major-components]({{ img_base }}/major-components.png)
+![major-components]({{ img_base }}/major-componentsGG.png)
 
 1. The PC register will hold the address of the instruction we are currently executing
 1. The Instruction Memory holds the machine code representation of our test programs , including the unimp marker instruction
@@ -35,7 +35,7 @@ The project spec for project06 provides high-level requirements. This guide, alo
 
 ## Register File
 
-![Register File]({{ img_base }}/register-file.png)
+![Register File]({{ img_base }}/register-fileGG.png)
 
 1. You will create a circuit which supports reading from two registers and writing to one register in the same clock cycle.
 
@@ -87,4 +87,4 @@ The project spec for project06 provides high-level requirements. This guide, alo
 1. Wire explicit inputs to all components
 1. Add tunnels and probes to see register state 
 
-![Top-Level Circuit]({{ img_base }}/top-level-1.png)
+![Top-Level Circuit]({{ img_base }}/top-level-1GG.png)

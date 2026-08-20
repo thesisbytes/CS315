@@ -47,4 +47,4 @@ published: true
 
 Partial Top-level Circuit Image
 
-![project05]({{ img_base }}/project05.png)
+![project05]({{ img_base }}/project05GG.png)

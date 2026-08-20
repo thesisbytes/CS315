@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign img_base = site.url | append: site.baseurl | append: "/assets/img/project06" %}
+{% assign img_base = site.url | append: site.baseurl | append: "/assets/img/project06GG" %}
 
 This last guide will give an overview of the last two big components that need to be added to complete the processor: conditional branching and data memory. Unlike, Part 1 and Part 2, this guide will just be a high-level overview. More detail was provided during lecture and lab. This guide also provide a suggested way to construct the register dashboard and gives some general debugging tips.
 
@@ -42,7 +42,7 @@ For the splitter approach, you can extract both 32 bit values from D64cur, call 
 ## Register Dashboard 
 
 Here is a proposed register dashboard that uses outputs and maps the register numbers (x0, x1, etc.) with the ABI names (a0, a1, t0, etc.):
-![register-dashboard]({{ img_base }}/register-dashboard.png)
+![register-dashboard]({{ img_base }}/register-dashboardGG.png)
 
 
 ## Development and Debugging Tips
