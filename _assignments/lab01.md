@@ -1,7 +1,7 @@
 ---
 layout: assignment
-due: 2026-01-28 23:59:59 -0800
-github_url: https://classroom.github.com/a/T_PGldDx
+due: 2026-08-26 23:59:59 -0800
+github_url: https://github.com/usf-cs315-f26
 published: true
 ---
 
@@ -71,7 +71,7 @@ To set up the autograder in your RISC-V environment
     ```
 1. Clone the repo which contains the test cases (these will be updated during the semester)
     ```
-    git clone git@github.com:/usf-cs315-s26/tests
+    git clone git@github.com:/usf-cs315-f26/tests
     ```
 
 ## Rubric
