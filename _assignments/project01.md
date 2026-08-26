@@ -1,12 +1,14 @@
 ---
 layout: assignment
-due: 2026-02-03 23:59:59 -0800
-github_url: https://classroom.github.com/a/GwVb8DEl
+due: 2026-09-01 23:59:59 -0800
+github_url: https://github.com/usf-cs315-f26
 published: true
 ---
 
 ## Requirements
-1. You will implement a base conversion tool called `project01`. It converts numbers expressed in bases 2, 10, and 16 into the other two bases. Examples:
+
+1. You will create a new repo in our org called `project01-your-github-id`. Your repo will contain source code and a `Makefile` which builds an executable called `project01`
+2. `project01` will convert numbers expressed in bases 2, 10, and 16 into the other two bases. Examples:
 	```text
     $ ./project01 10 -o 2
     0b1010
